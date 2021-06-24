@@ -66,7 +66,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: Get Started
+      - label: Get Going
         url: /docs/getting-started/installation
         style: primary
       - label: lorem-ipsum
