@@ -58,7 +58,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
-  - section_id: text-no-img
+  - section_id: text-n
     type: section_content
     title: A Section Without Image
     content: >-
