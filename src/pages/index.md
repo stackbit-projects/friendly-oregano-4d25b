@@ -76,6 +76,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    image: images/10.jpg
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
