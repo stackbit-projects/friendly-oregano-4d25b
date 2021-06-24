@@ -67,7 +67,7 @@ sections:
       consectetur lobortis.
     actions:
       - label: Get Going
-        url: /docs/getting-started/installation
+        url: /docs/getting-started/installations
         style: primary
       - label: lorem-ipsum
         url: '#'
